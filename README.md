@@ -163,7 +163,7 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Author
 
-**Sky (Suman Kayal)**  
+**Suman Kayal**  
 Computer Science Engineering Student  
 
 Interested in:
