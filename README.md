@@ -47,7 +47,7 @@ This project demonstrates modern **mobile development practices**, including aut
 # ⚙️ Installation
 
 Clone the repository:
-git clone https://github.com/yourusername/justyou-chat-app.git
+git clone https:[//github.com/yourusername/justyou-chat-app.git](https://github.com/SUMANKAYALS/mobile-video-call-app)
 
 
 Navigate to the project folder:
