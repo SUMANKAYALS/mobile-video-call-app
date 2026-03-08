@@ -104,18 +104,6 @@ Notifications can be implemented using:
 
 ---
 
-# 📸 Screenshots
-
-You can add screenshots here after completing the UI.
-
-Example:
-
-| Login Screen | Chat Screen | Profile |
-|--------------|-------------|--------|
-| Add image | Add image | Add image |
-
----
-
 # 📦 Build the App
 
 Run the app on Android:
@@ -152,12 +140,6 @@ Steps to contribute:
 3. Commit your changes  
 4. Push the branch  
 5. Create a Pull Request  
-
----
-
-# 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
