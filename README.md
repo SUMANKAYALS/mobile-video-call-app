@@ -146,7 +146,7 @@ Steps to contribute:
 # 👨‍💻 Author
 
 **Suman Kayal**  
-Computer Science Engineering Student  
+I am a final-year Computer Science Engineering student and I am continuously looking for a good opportunity.
 
 Interested in:
 
